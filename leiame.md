@@ -1,10 +1,10 @@
-# <a href="./readme.md"> <img src="./IMG/LogoUK.png" alt="Logo UK" width="50"/> Project ReactNativeFlashLight </a>
+# <a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="50"/> Project ReactNativeFlashLight </a>
 
-# <a href="./leiame.md"> <img src="./IMG/logoBrazil.png" alt="Logo Brasil" width="30"/> Projeto ReactNativeFlashLight </a>
+# <a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> Projeto ReactNativeFlashLight </a>
 
 # Dio-flashlight
 
-<img src="./IMG/logoReact.png" alt="Logo INPE" width="148"/> <img src="./IMG/react-native-shake.png" alt="react-native-shake" width="100"/> <img src="./IMG/react-native-torch.png" alt="react-native-shake" width="85"/>
+<img src="./img/logoReact.png" alt="Logo INPE" width="148"/> <img src="./img/react-native-shake.png" alt="react-native-shake" width="100"/> <img src="./img/react-native-torch.png" alt="react-native-shake" width="85"/>
  
 ## Construindo um app usando o sensor de movimento com React Native - 2022
  
@@ -30,8 +30,8 @@ Baixe o Apk: https://github.com/vicssb/reactNativeFlashLight/releases/download/v
  
 ## Resultados
  
-<img src="./IMG/tela1.png" alt="tela1" width="500"/>
- <img src="./IMG/tela2.png" alt="tela2" width="500"/>
+<img src="./img/tela1.png" alt="tela1" width="500"/>
+ <img src="./img/tela2.png" alt="tela2" width="500"/>
  
  
 
