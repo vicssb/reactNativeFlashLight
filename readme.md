@@ -1,7 +1,7 @@
 <div align="right"> 
 <a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
 </div>
-<H1>Projeto ReactNativeFlashLight </H1>
+<H1>Project ReactNativeFlashLight </H1>
 
 # Dio-flashlight
 
