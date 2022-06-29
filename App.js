@@ -25,7 +25,7 @@ const App = () => {
   return (
     <View style={toggle ? style.containerLight : style.container}>
       <TouchableOpacity onPress={handleChangeToggle}>
-        <Image
+		<Image
           style={style.textOn}
           source={require('./assets/icons/texto.png')}
         />

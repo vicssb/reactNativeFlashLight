@@ -1,6 +1,8 @@
-# <a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="50"/> Project ReactNativeFlashLight </a>
+<div align="right"> 
+<a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
+</div>
 
-# <a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> Projeto ReactNativeFlashLight </a>
+<H1>Projeto ReactNativeFlashLight </H1>
 
 # Dio-flashlight
 
@@ -56,8 +58,16 @@ Baixe o Apk: https://github.com/vicssb/reactNativeFlashLight/releases/download/v
  
 * **Victor Sérgio Silva Barros**: 
 
-- @vicssb (https://github.com/vicssb)
-- vicssb@gmail.com
- 
-Por favor, siga o github e junte-se a nós!
-Obrigado por me visitar e boa codificação!
+<p align="left">
+  <a href="mailto:vicssb@gmail.com" alt="Gmail" target = "_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:vicssb@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/victor-sergio-silva-barros/" alt="Linkedin" target = "_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-sergio-silva-barros/" /></a>
+
+  <a href="https://wa.me/+5512987085327" alt="WhatsApp" target = "_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5512987085327"/></a>
+
+  </p>  
+<p>Por favor, siga o github e junte-se a nós!
+Obrigado por me visitar e boa codificação!</p>
