@@ -1,14 +1,9 @@
-<<<<<<< HEAD
 <div align="right"> 
 <a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
 </div>
 
 <H1>Projeto ReactNativeFlashLight </H1>
-=======
-# <a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="50"/> Project ReactNativeFlashLight </a>
 
-# <a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> Projeto ReactNativeFlashLight </a>
->>>>>>> 6255b24ae21396cd892805622393ad83c86dd878
 
 # Dio-flashlight
 
